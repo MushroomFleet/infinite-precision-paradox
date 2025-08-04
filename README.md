@@ -239,9 +239,9 @@ This work awaits validation from the theoretical physics community. We particula
 
 ### How to Cite This Work
 ```
-[Author]. (2025). The Precision Horizon: A New Physical Law Governing Measurement 
+[ScuffedEpoch]. (2025). The Precision Horizon: A New Physical Law Governing Measurement 
 Limits in the Cosmic Context. Open Source Physics Research. 
-Available at: [repository URL]
+Available at: [https://github.com/MushroomFleet/infinite-precision-paradox]
 ```
 
 ### Open Source License
@@ -274,3 +274,4 @@ The universe may be far larger than we can comprehend, but within our finite obs
 **Last updated**: January 2025  
 **Status**: Seeking peer review and experimental validation  
 **Contact**: [Your contact information]
+
