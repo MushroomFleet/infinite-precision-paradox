@@ -19,11 +19,12 @@ The energy costs of achieving high statistical confidence scale **exponentially*
 
 **E_measurement ∝ exp(σ²)**
 
-This means that pushing beyond ~7-sigma confidence approaches cosmic-scale energy requirements, creating an absolute "accuracy horizon" beyond which measurement becomes thermodynamically impossible.
+This means that pushing beyond current high-precision measurements (such as LIGO's 7σ detection) will approach cosmic-scale energy requirements, creating an absolute "accuracy horizon" beyond which measurement becomes thermodynamically impossible. The exact threshold depends on specific measurement conditions and requires empirical validation.
 
 ### Key Implications
-- **Beyond 7-sigma**: Statistical confidence becomes exponentially more expensive
-- **Cosmic Limits**: Extreme precision bumps against universal energy constraints
+- **Exponential Scaling**: Statistical confidence becomes exponentially more expensive at higher sigma levels
+- **Cosmic Limits**: Extreme precision approaches universal energy constraints
+- **Theoretical Boundary**: Some precision horizon exists where measurement becomes thermodynamically impossible
 - **Scientific Strategy**: Resources may be better invested in moderate-precision research across broader domains
 
 ---
