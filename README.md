@@ -270,8 +270,9 @@ The universe may be far larger than we can comprehend, but within our finite obs
 
 ---
 
-**Repository maintained by**: [Your Name]  
-**Last updated**: January 2025  
+**Repository maintained by**: [MushroomFleet]  
+**Last updated**: August 3rd 2025  
 **Status**: Seeking peer review and experimental validation  
-**Contact**: [Your contact information]
+**Contact**: [hello@scuffedepoch.com]
+
 
